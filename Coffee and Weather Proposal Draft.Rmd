@@ -20,9 +20,9 @@ Anecdotally, we know that coffee is a comfort beverage. Obviously, an iced ameri
 
 **What if demand for coffee beverages has something to do with the weather?**
 
-Big companies in the coffee market seem to think so. Dunkin' Donuts has [blamed](https://www.usatoday.com/story/money/business/2014/04/24/dunkin-donuts-earnings-stormy-weather/8086615/) the weather on poor sales, and Starbucks regularly [engage](http://www.weatherunlocked.com/media/1096/the-complete-guide-to-weather-based-marketing.pdf) in weather-triggered marketing.
+Big companies in the coffee market seem to think so. Dunkin' Donuts has [blamed](https://www.usatoday.com/story/money/business/2014/04/24/dunkin-donuts-earnings-stormy-weather/8086615/) the weather on poor sales, and Starbucks [engages](http://www.weatherunlocked.com/media/1096/the-complete-guide-to-weather-based-marketing.pdf) in weather-triggered marketing.
 
-Importantly, there are [several](https://enterprisesolutions.accuweather.com/assets/documents/AccuWeather_D3_Solutions.pdf) [commercial](http://www.skymosity.com/articles/coffee-and-weather.pdf) [solutions](http://www.weatherunlocked.com/media/1096/the-complete-guide-to-weather-based-marketing.pdf) that specialize in taking a business' sales or ad campaign data and combining it with local weather data to produce insight. In my capstone project, I will attempt to do the same. 
+Interestingly, there are [several](https://enterprisesolutions.accuweather.com/assets/documents/AccuWeather_D3_Solutions.pdf) [commercial](http://www.skymosity.com/articles/coffee-and-weather.pdf) [solutions](http://www.weatherunlocked.com/media/1096/the-complete-guide-to-weather-based-marketing.pdf) that specialize in taking a business' sales or ad campaign data and combining it with local weather data to produce insight. In my capstone project, I will attempt to do the same. 
 
 I will take sales data from a neighborhood coffee shop and combine it with historical weather data from a local weather station. Then, I will investigate whether there are any relationships between weather condition variables and beverage contents and preparation procedures.
 
